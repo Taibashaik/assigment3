@@ -1,0 +1,18 @@
+body{
+   background-color: rgb(0, 0, 0)
+}
+body h1{
+   color:crimson
+}
+body p{
+   background-color: rgb(242, 250, 247);
+   color: rgb(11, 11, 11);
+}
+body ul{
+   color: brown;
+}
+body ol{
+   color: brown;
+}
+
+
